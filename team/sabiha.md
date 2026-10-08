@@ -6,9 +6,10 @@ I am a CSE student.
 
 ## Skills
 
-- Python
-- C++
-- GitHub
+ Python
+ C++
+ GitHub
+ Basic Software Testing
 
 ## Interests
 
