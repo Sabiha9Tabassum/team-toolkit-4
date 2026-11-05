@@ -9,6 +9,7 @@ I am a CSE student.
  #Python
  C++
  GitHub
+ git
  Basic Software Testing
 
 ## Interests
