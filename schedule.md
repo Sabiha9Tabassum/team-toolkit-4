@@ -1,1 +1,1 @@
-Team meeting: Monday at 9:00 PM
+Team meeting: Wednesday at 8:00 PM
